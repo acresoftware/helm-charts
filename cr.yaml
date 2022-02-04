@@ -1,2 +1,3 @@
-sign: true
-key: Grafana Loki
+owner: acresoftware
+git-repo: helm-charts
+package-path: .deploy
